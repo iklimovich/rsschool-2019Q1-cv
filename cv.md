@@ -1,21 +1,23 @@
 # Iryna Klimovich 
 #### Junior Front-end Engineer
- Minsk, Belarus
+Minsk, Belarus
 +375 29 201 62 66
 
 [iryna.v.klimovich@gmail.com](mailto:iryna.v.klimovich@gmail.com)
+
+[GitHub: iklimovich](https://github.com/iklimovich)
 
 
 
 ### EXPERIENCE
 
- **Extmedia LTD** (hosting provider)
+**Extmedia LTD** (hosting provider)
 
 *Account manager*  (May-2015 – now)
 
 Tasks performed:
 
--  hosting provider’s billing system testing
+- hosting provider’s billing system testing
 
 - interactions with developers and DevOps engineer
 
@@ -24,7 +26,7 @@ Tasks performed:
 - communicating with clients
 
 
- **T&T Logistics** (provider of logistics services)
+**T&T Logistics** (provider of logistics services)
 
 *Analyst, department of controlling and analysis* (Sep-2014 – May-2015)
 
@@ -47,9 +49,7 @@ Tasks performed:
 ### EDUCATION
 **Belarusian State Pedagogical University**
 
-*Mathematics Department — University degree*
-
-Sep-2007 – Jun-2012
+*Mathematics Department — University degree* (Sep-2007 – Jun-2012)
 
 ### SKILLS
 - Analytical mind
