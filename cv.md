@@ -30,8 +30,9 @@ Tasks performed:
 
 Tasks performed:
 
-gathering and analysis of tracking information
-consolidation of reports
+- gathering and analysis of tracking information
+
+- consolidation of reports
 
  **School #110, Minsk**
 
@@ -39,8 +40,9 @@ consolidation of reports
 
 Tasks performed: 
 
-training of students in informatics and mathematics
-reporting and planning of teaching process
+- training of students in informatics and mathematics
+
+- reporting and planning of teaching process
 
 ### EDUCATION
 **Belarusian State Pedagogical University**
